@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac6356db-5157-440e-8b15-78f35f28f13c" name="Default Changelist" comment="" />
+    <list default="true" id="ac6356db-5157-440e-8b15-78f35f28f13c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +13,9 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ii1mOM0b1NQlF1sc9QcMymqyfg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MMServer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel-mongodb-passportOLD" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,6 +37,7 @@
       <updated>1602375756576</updated>
       <workItem from="1602375757656" duration="5131000" />
       <workItem from="1602383391209" duration="1310000" />
+      <workItem from="1602385468619" duration="1269000" />
     </task>
     <servers />
   </component>
@@ -39,10 +45,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1602383425846">
+    <state x="372" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602386749557">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602383425846" />
+    <state x="372" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602386749557" />
+    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1602386173700">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602386173700" />
+    <state x="406" y="64" key="NewPhpClassDialog" timestamp="1602386668675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="406" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1602386668675" />
     <state x="352" y="73" width="575" height="534" key="find.popup" timestamp="1602380322601">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
