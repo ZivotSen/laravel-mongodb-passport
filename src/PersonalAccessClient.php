@@ -13,6 +13,8 @@ class PersonalAccessClient extends Model
      */
     protected $table = 'oauth_personal_access_clients';
 
+    protected $dates = ['created_at, updated_at'];
+
     /**
      * The guarded attributes on the model.
      *

@@ -14,6 +14,13 @@ class Token extends Model
     protected $table = 'oauth_access_tokens';
 
     /**
+     * Indicates if the IDs are auto-incrementing.
+     *
+     * @var bool
+     */
+    public $incrementing = false;
+
+    /**
      * The guarded attributes on the model.
      *
      * @var array
@@ -36,15 +43,10 @@ class Token extends Model
      * @var array
      */
     protected $dates = [
+        'created_at',
+        'updated_at',
         'expires_at',
     ];
-
-    /**
-     * Indicates if the model should be timestamped.
-     *
-     * @var bool
-     */
-    public $timestamps = false;
 
     /**
      * Get the client that the token belongs to.

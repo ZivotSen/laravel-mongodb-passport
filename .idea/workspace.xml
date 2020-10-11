@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ac6356db-5157-440e-8b15-78f35f28f13c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PersonalAccessClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonalAccessClient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Token.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Token.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,7 @@
       <updated>1602375756576</updated>
       <workItem from="1602375757656" duration="5131000" />
       <workItem from="1602383391209" duration="1310000" />
-      <workItem from="1602385468619" duration="1269000" />
+      <workItem from="1602385468619" duration="3928000" />
     </task>
     <servers />
   </component>
@@ -49,17 +52,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="372" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602386749557" />
-    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1602386173700">
+    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1602388791666">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602386173700" />
+    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602388791666" />
     <state x="406" y="64" key="NewPhpClassDialog" timestamp="1602386668675">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="406" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1602386668675" />
-    <state x="352" y="73" width="575" height="534" key="find.popup" timestamp="1602380322601">
+    <state x="352" y="73" width="575" height="534" key="find.popup" timestamp="1602389393430">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="352" y="73" width="575" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1602380322601" />
+    <state x="352" y="73" width="575" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1602389393430" />
   </component>
 </project>
